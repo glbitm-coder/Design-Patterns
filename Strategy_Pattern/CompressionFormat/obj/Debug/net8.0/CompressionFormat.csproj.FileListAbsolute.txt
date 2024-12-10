@@ -1,0 +1,15 @@
+F:\Bittu\Design-Patterns\Strategy Pattern\CompressionFormat\bin\Debug\net8.0\CompressionFormat.exe
+F:\Bittu\Design-Patterns\Strategy Pattern\CompressionFormat\bin\Debug\net8.0\CompressionFormat.deps.json
+F:\Bittu\Design-Patterns\Strategy Pattern\CompressionFormat\bin\Debug\net8.0\CompressionFormat.runtimeconfig.json
+F:\Bittu\Design-Patterns\Strategy Pattern\CompressionFormat\bin\Debug\net8.0\CompressionFormat.dll
+F:\Bittu\Design-Patterns\Strategy Pattern\CompressionFormat\bin\Debug\net8.0\CompressionFormat.pdb
+F:\Bittu\Design-Patterns\Strategy Pattern\CompressionFormat\obj\Debug\net8.0\CompressionFormat.GeneratedMSBuildEditorConfig.editorconfig
+F:\Bittu\Design-Patterns\Strategy Pattern\CompressionFormat\obj\Debug\net8.0\CompressionFormat.AssemblyInfoInputs.cache
+F:\Bittu\Design-Patterns\Strategy Pattern\CompressionFormat\obj\Debug\net8.0\CompressionFormat.AssemblyInfo.cs
+F:\Bittu\Design-Patterns\Strategy Pattern\CompressionFormat\obj\Debug\net8.0\CompressionFormat.csproj.CoreCompileInputs.cache
+F:\Bittu\Design-Patterns\Strategy Pattern\CompressionFormat\obj\Debug\net8.0\CompressionFormat.sourcelink.json
+F:\Bittu\Design-Patterns\Strategy Pattern\CompressionFormat\obj\Debug\net8.0\CompressionFormat.dll
+F:\Bittu\Design-Patterns\Strategy Pattern\CompressionFormat\obj\Debug\net8.0\refint\CompressionFormat.dll
+F:\Bittu\Design-Patterns\Strategy Pattern\CompressionFormat\obj\Debug\net8.0\CompressionFormat.pdb
+F:\Bittu\Design-Patterns\Strategy Pattern\CompressionFormat\obj\Debug\net8.0\CompressionFormat.genruntimeconfig.cache
+F:\Bittu\Design-Patterns\Strategy Pattern\CompressionFormat\obj\Debug\net8.0\ref\CompressionFormat.dll
