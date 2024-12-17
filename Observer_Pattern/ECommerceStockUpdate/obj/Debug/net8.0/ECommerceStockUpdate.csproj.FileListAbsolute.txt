@@ -1,0 +1,15 @@
+F:\Bittu\Design-Patterns\Observer_Pattern\ECommerceStockUpdate\obj\Debug\net8.0\ECommerceStockUpdate.GeneratedMSBuildEditorConfig.editorconfig
+F:\Bittu\Design-Patterns\Observer_Pattern\ECommerceStockUpdate\obj\Debug\net8.0\ECommerceStockUpdate.AssemblyInfoInputs.cache
+F:\Bittu\Design-Patterns\Observer_Pattern\ECommerceStockUpdate\obj\Debug\net8.0\ECommerceStockUpdate.AssemblyInfo.cs
+F:\Bittu\Design-Patterns\Observer_Pattern\ECommerceStockUpdate\obj\Debug\net8.0\ECommerceStockUpdate.csproj.CoreCompileInputs.cache
+F:\Bittu\Design-Patterns\Observer_Pattern\ECommerceStockUpdate\obj\Debug\net8.0\ECommerceStockUpdate.sourcelink.json
+F:\Bittu\Design-Patterns\Observer_Pattern\ECommerceStockUpdate\bin\Debug\net8.0\ECommerceStockUpdate.exe
+F:\Bittu\Design-Patterns\Observer_Pattern\ECommerceStockUpdate\bin\Debug\net8.0\ECommerceStockUpdate.deps.json
+F:\Bittu\Design-Patterns\Observer_Pattern\ECommerceStockUpdate\bin\Debug\net8.0\ECommerceStockUpdate.runtimeconfig.json
+F:\Bittu\Design-Patterns\Observer_Pattern\ECommerceStockUpdate\bin\Debug\net8.0\ECommerceStockUpdate.dll
+F:\Bittu\Design-Patterns\Observer_Pattern\ECommerceStockUpdate\bin\Debug\net8.0\ECommerceStockUpdate.pdb
+F:\Bittu\Design-Patterns\Observer_Pattern\ECommerceStockUpdate\obj\Debug\net8.0\ECommerceStockUpdate.dll
+F:\Bittu\Design-Patterns\Observer_Pattern\ECommerceStockUpdate\obj\Debug\net8.0\refint\ECommerceStockUpdate.dll
+F:\Bittu\Design-Patterns\Observer_Pattern\ECommerceStockUpdate\obj\Debug\net8.0\ECommerceStockUpdate.pdb
+F:\Bittu\Design-Patterns\Observer_Pattern\ECommerceStockUpdate\obj\Debug\net8.0\ECommerceStockUpdate.genruntimeconfig.cache
+F:\Bittu\Design-Patterns\Observer_Pattern\ECommerceStockUpdate\obj\Debug\net8.0\ref\ECommerceStockUpdate.dll
